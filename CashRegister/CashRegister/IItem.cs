@@ -2,9 +2,8 @@
 {
     public interface IItem
     {
-        //public bool HasWeight { get; set; }
-        //public bool HasPrice { get; set; }
-
-       
+        string Name { get; set; }
+        double Price { get; set; }
+      
     }
 }
