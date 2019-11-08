@@ -8,7 +8,6 @@ namespace CashRegister
         {
             var shoppingTrip = new Cart();
             shoppingTrip.Run();
-           
         }
     }
 }
